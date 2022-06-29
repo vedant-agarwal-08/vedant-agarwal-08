@@ -19,11 +19,11 @@
 
 - 📫 How to reach me *kanhavedant02@gmail.com*
 
-- ❤️ I love playing guitar,cricket,football and love doing programming*
+- ❤️ I love playing guitar,cricket,football and love doing programming
 
-- ⚡ I am a U-19 cricket player and district badminton player*
+- ⚡ I am a U-19 cricket player and district badminton player
 
-- 🥳 Started up scentpercent-an essential oil company*
+- 🥳 Started up scentpercent-an essential oil company
 
 
 
