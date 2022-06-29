@@ -1,5 +1,5 @@
 <p align="center"> 
-<a href="#"><img align="center" width="300px" height="350px" src="https://raw.githubusercontent.com/vedant-agrawal-08/VisheshBansal/main/assets/code.gif"/></a>
+<a href="#"><img align="center" width="300px" height="350px" src="https://raw.githubusercontent.com/vedant-agarwal-08/VisheshBansal/main/assets/code.gif"/></a>
 </p>
  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm Vedant Agrawal</h1>
@@ -36,7 +36,7 @@
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 </p>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=vedant-agrawal-08&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=vedant-agarwal-08&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 ## 🔥My Competitive programming Stats:
@@ -51,15 +51,15 @@
 
 <br>
 <p align="left">
-    <a href="https://github.com/vedant-agrawal-08/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vedant Agrawal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-agrawal-08&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/vedant-agarwal-08/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vedant Agrawal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-agarwal-08&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 <br>
 
   <br/>
-    <a href="https://github.com/vedant-agrawal-08/github-readme-stats"><img alt="Vedant Agrawal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vedant-agrawal-08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
-  <a href="https://github.com/vedant-agrawal-08/github-readme-stats"><img alt="Vedant Agrawal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-agrawal-08&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/vedant-agarwal-08/github-readme-stats"><img alt="Vedant Agrawal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vedant-agarwal-08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
+  <a href="https://github.com/vedant-agarwal-08/github-readme-stats"><img alt="Vedant Agrawal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-agarwal-08&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -67,7 +67,7 @@
 <br/>
 
 <br>
-<a href="https://github.com/vedant-agrawal-08/github-readme-activity-graph"><img alt="Vedant Agrawal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vedant-agrawal-08&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/vedant-agarwal-08/github-readme-activity-graph"><img alt="Vedant Agrawal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vedant-agarwal-08&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
