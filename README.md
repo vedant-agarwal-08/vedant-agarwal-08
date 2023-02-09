@@ -9,17 +9,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on *frontend projects.*
+- 🔭 I’m currently working on *frontend projects and backend projects.*
 
-- 🌱 I’m currently learning *JavaScript*
+- 🌱 I’m currently learning *React*
 
-- 👯 I’m looking to collaborate on *HTML AND CSS*
+- 👯 I’m looking to collaborate on *HTML,CSS AND JAVASCRIPT*
 
 - 💬 Ask me about *Web development*
 
 - 📫 How to reach me *kanhavedant02@gmail.com*
 
-- ❤️ I love playing guitar,cricket,football and love doing programming
+- ❤️ I love playing guitar,cricket,football and programming
 
 - ⚡ I am a U-19 cricket player and district badminton player
 
