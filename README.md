@@ -17,7 +17,7 @@
 
 - 💬 Ask me about *Web development*
 
-- 📫 How to reach me *kanhavedant02@gmail.com*
+- 📫 How to reach me *vedantagrawal3108@gmail.com*
 
 - ❤️ I love playing guitar,cricket,football and programming
 
